@@ -17,6 +17,11 @@ and you can check vaccine availability just by enetering your pincode and also y
 </br>
 <img src = "App Images/drawer.jpg" width="300" height="500">
 
+#CASES
+</br>
+<img src = "App Images/cases.jpg" width="300" height="500">
+
+
 #PINCODE
 </br>
 <img src = "App Images/fetch.jpg" width="300" height="500">
