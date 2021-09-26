@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/crad_background.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/ic_hospital.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/ic_location.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/ic_time.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/login_btn_background.xml" value="0.2740740740740741" />
+        <entry key="app/src/main/res/drawable/search_field_background.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/layout/activity_covid19_tracker.xml" value="0.24954710144927536" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2554347826086957" />
+        <entry key="app/src/main/res/layout/activity_news.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/center_rv_item.xml" value="0.2554347826086957" />
+        <entry key="app/src/main/res/layout/itemnews.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/navigation_header.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/state_rv_item.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.29907407407407405" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

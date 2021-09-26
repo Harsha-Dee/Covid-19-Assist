@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid-19 Diaries</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+</resources>
