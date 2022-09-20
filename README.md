@@ -1,4 +1,4 @@
-# Covid-19-Diaries
+# Covid-19-Assist
 
 #This is Covid-19 Diaries project where you can get all information regarding covid-19 such as you can see how may active cases, recovered cases and even death cases
 and you can check vaccine availability just by enetering your pincode and also you can schedule vaccine by clicking the schedule vaccine tab in the drawer
